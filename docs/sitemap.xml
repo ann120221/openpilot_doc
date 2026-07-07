@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://docs.comma.ai/</loc>
+      </url>
+      <url>
+        <loc>https://docs.comma.ai/how-to/turn-the-speed-blue/</loc>
+      </url>
+      <url>
+        <loc>https://docs.comma.ai/how-to/connect-to-comma/</loc>
+      </url>
+      <url>
+        <loc>https://docs.comma.ai/how-to/car-port/</loc>
+      </url>
+      <url>
+        <loc>https://docs.comma.ai/concepts/logs/</loc>
+      </url>
+      <url>
+        <loc>https://docs.comma.ai/concepts/safety/</loc>
+      </url>
+      <url>
+        <loc>https://docs.comma.ai/concepts/glossary/</loc>
+      </url>
+      <url>
+        <loc>https://docs.comma.ai/contributing/feedback/</loc>
+      </url>
+      <url>
+        <loc>https://docs.comma.ai/contributing/roadmap/</loc>
+      </url>
+</urlset>
